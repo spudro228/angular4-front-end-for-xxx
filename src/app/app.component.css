@@ -1,0 +1,16 @@
+
+.example-spacer{
+  flex: 1 1 auto;
+}
+.example-card {
+  margin-right: 10px;
+  margin-left: 10px;
+  max-width: 500px;
+
+}
+.flex-container{
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+}
